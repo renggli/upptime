@@ -17,9 +17,4 @@ assignees:
 
 status-website:
   baseUrl: /upptime
-  name: Lukas Renggli Status
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  name: Lukas Renggli: Status Website
