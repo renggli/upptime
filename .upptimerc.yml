@@ -11,7 +11,7 @@ sites:
   - name: Smalltalk Code
     url: https://source.lukas-renggli.ch
     icon: https://source.lukas-renggli.ch/favicon.ico
- 
+
 assignees:
   - renggli
 
