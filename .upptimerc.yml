@@ -7,7 +7,7 @@ sites:
     icon: https://www.lukas-renggli.ch/favicon.ico
   - name: PetitParser
     url: https://petitparser.github.io/
-    icon: https://petitparser.github.io/favicon.ico
+    icon: https://petitparser.github.io/assets/images/favicon.png
   - name: TextLint
     url: https://textlint.lukas-renggli.ch
     icon: https://textlint.lukas-renggli.ch/favicon.ico
