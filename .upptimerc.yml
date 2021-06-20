@@ -5,6 +5,9 @@ sites:
   - name: Lukas Renggli
     url: https://www.lukas-renggli.ch
     icon: https://www.lukas-renggli.ch/favicon.ico
+  - name: PetitParser
+    url: https://petitparser.github.io/
+    icon: https://petitparser.github.io/favicon.ico
   - name: TextLint
     url: https://textlint.lukas-renggli.ch
     icon: https://textlint.lukas-renggli.ch/favicon.ico
