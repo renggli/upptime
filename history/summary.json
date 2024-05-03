@@ -58,17 +58,17 @@
     "url": "https://source.lukas-renggli.ch",
     "icon": "https://source.lukas-renggli.ch/favicon.ico",
     "slug": "smalltalk-code",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1186,
-    "timeDay": 5654,
-    "timeWeek": 4636,
-    "timeMonth": 3822,
-    "timeYear": 1381,
+    "timeDay": 5324,
+    "timeWeek": 4591,
+    "timeMonth": 3793,
+    "timeYear": 1379,
     "dailyMinutesDown": {}
   }
 ]
