@@ -1,7 +1,7 @@
 url: https://www.lukas-renggli.ch
-status: up
-code: 200
-responseTime: 26496
-lastUpdated: 2025-03-02T21:30:28.109Z
+status: down
+code: 503
+responseTime: 499
+lastUpdated: 2025-03-02T21:52:55.529Z
 startTime: 2020-12-27T21:42:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
