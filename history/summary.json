@@ -4,7 +4,7 @@
     "url": "https://www.lukas-renggli.ch",
     "icon": "https://www.lukas-renggli.ch/favicon.ico",
     "slug": "lukas-renggli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -50,7 +50,7 @@
     "timeDay": 440,
     "timeWeek": 556,
     "timeMonth": 601,
-    "timeYear": 1875,
+    "timeYear": 1861,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 497,
     "timeWeek": 518,
     "timeMonth": 561,
-    "timeYear": 1873,
+    "timeYear": 1851,
     "dailyMinutesDown": {}
   }
 ]
