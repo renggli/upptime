@@ -50,7 +50,7 @@
     "timeDay": 4023,
     "timeWeek": 2719,
     "timeMonth": 1459,
-    "timeYear": 1403,
+    "timeYear": 1405,
     "dailyMinutesDown": {}
   },
   {
@@ -58,7 +58,7 @@
     "url": "https://source.lukas-renggli.ch",
     "icon": "https://source.lukas-renggli.ch/favicon.ico",
     "slug": "smalltalk-code",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,7 +68,7 @@
     "timeDay": 3584,
     "timeWeek": 2443,
     "timeMonth": 1323,
-    "timeYear": 1218,
+    "timeYear": 1220,
     "dailyMinutesDown": {}
   }
 ]
