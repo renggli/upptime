@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 928,
     "timeDay": 0,
-    "timeWeek": 732,
-    "timeMonth": 699,
+    "timeWeek": 735,
+    "timeMonth": 704,
     "timeYear": 880,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 156,
-    "timeWeek": 90,
+    "timeDay": 62,
+    "timeWeek": 87,
     "timeMonth": 112,
     "timeYear": 102,
     "dailyMinutesDown": {}
@@ -48,9 +48,9 @@
     "uptimeYear": "100.00%",
     "time": 1752,
     "timeDay": 5779,
-    "timeWeek": 4300,
-    "timeMonth": 2773,
-    "timeYear": 1544,
+    "timeWeek": 4421,
+    "timeMonth": 2816,
+    "timeYear": 1546,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,17 @@
     "url": "https://source.lukas-renggli.ch",
     "icon": "https://source.lukas-renggli.ch/favicon.ico",
     "slug": "smalltalk-code",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1841,
-    "timeDay": 6399,
-    "timeWeek": 5021,
-    "timeMonth": 3507,
-    "timeYear": 1511,
+    "time": 1846,
+    "timeDay": 6311,
+    "timeWeek": 5111,
+    "timeMonth": 3566,
+    "timeYear": 1519,
     "dailyMinutesDown": {}
   }
 ]
