@@ -40,7 +40,7 @@
     "url": "https://textlint.lukas-renggli.ch",
     "icon": "https://textlint.lukas-renggli.ch/favicon.ico",
     "slug": "text-lint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1967,
     "timeDay": 6619,
-    "timeWeek": 4843,
+    "timeWeek": 4802,
     "timeMonth": 3552,
     "timeYear": 1725,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 2051,
     "timeDay": 6362,
-    "timeWeek": 4797,
+    "timeWeek": 4750,
     "timeMonth": 3793,
     "timeYear": 1691,
     "dailyMinutesDown": {}
