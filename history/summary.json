@@ -4,16 +4,16 @@
     "url": "https://www.lukas-renggli.ch",
     "icon": "https://www.lukas-renggli.ch/favicon.ico",
     "slug": "lukas-renggli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1059,
+    "time": 1060,
     "timeDay": 779,
     "timeWeek": 751,
-    "timeMonth": 1301,
+    "timeMonth": 1309,
     "timeYear": 1139,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1774,
     "timeDay": 506,
     "timeWeek": 661,
-    "timeMonth": 967,
+    "timeMonth": 972,
     "timeYear": 1995,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1863,
     "timeDay": 506,
     "timeWeek": 562,
-    "timeMonth": 1656,
+    "timeMonth": 1671,
     "timeYear": 2046,
     "dailyMinutesDown": {}
   }
